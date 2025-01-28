@@ -20,7 +20,9 @@
 1. Provided 3 implementations for a broad comparison. A React-JS + Java would be best. But a Nodejs + React is the lightest 
 
 ### Use PlantUML / or equivalent tools to create representations of the Use-Case Diagram, Component Diagram, and Deployment Diagram
-1. Kindly see the pdf file ""
+1. Kindly see the pdf file. ( Solution-Design-Document-EBook-Management )
+
+
 
 ### Site URL's
 
