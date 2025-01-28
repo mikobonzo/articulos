@@ -32,8 +32,18 @@ Section where related documents are stored
 ### API Base URL (Book)
 
 - [NodeJS API](http://139.59.125.52:8880/api/books) 
-- [Java SptringBoot API](http://139.59.125.52:8882/api/books) 
+- [Java SpringBoot API](http://139.59.125.52:8882/api/books) 
 - [Go as API within Digital Cloud Kubernetes cluster ](http://137.184.249.9/api/books) 
+
+
+### Git Details 
+
+- [NodeJS API GiT](https://github.com/mikobonzo/n-e-book-api.git) 
+- [Java SpringBoot API GiT](https://github.com/mikobonzo/j-e-book-api.git) 
+- [Go as API GiT](https://github.com/mikobonzo/go-e-book-api.git) 
+- [Normal JS as front GiT](https://github.com/mikobonzo/ebook-basic-front.git) 
+- [reactJS JS as front GiT](https://github.com/mikobonzo/ebook-rjs-front.git) 
+- [General Documentation / Quiz Answer](https://github.com/mikobonzo/articulos.git) 
 
 
 ## Digital Cloud 
