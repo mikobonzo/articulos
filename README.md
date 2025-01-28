@@ -1,13 +1,12 @@
 
 # Articulos
 
-Section where related documents are stored
 
 ---
 
 ### Propose the solutions using words and diagrams. Recommendation on how to deliver solutions that can solve the problem state.
 
-1. All the given 3 solutions implemented a two-layer components. A front-end and back-end. For the reason that that if the application scales, either vertical/horizontalor  on-premise or cloud,  we do not have a tight monolithic  design that we have to dismantle.
+1. All the given 3 solutions implemented two-layer components. A front-end and back-end. For the reason that that if the application scales, either vertical/horizontalor  on-premise or cloud,  we do not have a tight monolithic  design that we have to dismantle.
 
 
 ### Explain the difference between client-side rendering and server-side rendering.
